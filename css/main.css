@@ -13,3 +13,7 @@ html, body {
     display: table-cell;
     vertical-align: middle;
 }
+
+.ie-input-group {
+    min-width: 100%;
+}
